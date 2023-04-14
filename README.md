@@ -3,5 +3,8 @@
 question 1 - for the first question, we were tasked with making 5 bubbles that moved randomly around the canvas from a single class with different functions in it. I created a bubble class and passed parameters through the contructor like the x value, y value, radius, and color. next I called the class 5 different times for 5 different bubbles, each with its own x, y, radius, and color. within the class, I made a move funciton that moved the bubbles around the canvas randomly, and I called this with the bubble.move command 5 times for each bubble name so that each bubble was able to move. 
 link for 1 - https://editor.p5js.org/aidan.gorneau/sketches/HC-Jjo6Lk
 
-question 2 - 
+question 2 - for the second question, we were tasked with making 50 bubble that moved around the canvas fro ma single class with different functions in it. I created a loop a variable i that operated 50 times and called the bubbles class 50 times, but instead of calling each bubbles class 50 individual times like bubbles[1], bubbles[2], I used i in the variable name like bubbles[i]. this aloud me to have each bubble a random x, y, and r variables, and by calling the move and show functions in draw with another loop based on the length of the bubble list, I made 50 individual bubbles on the screen. 
 link for 2 - https://editor.p5js.org/aidan.gorneau/sketches/utt9b-24j
+
+question 3 - for the third question, we were tasked with making a breeder and a catcher and positioning them on the edge of the screen. for my project, I am going with a forest theme which is why I made the bubbles green and brown. I created a cute mouse sprite as my breeder and put it on the left edge of the canvas, and created a cute fox sprite as my catcher and put it on the right edge of the canvas, each with their own functions for drawing and repositioning the sprites as needed. 
+link for 3 - https://editor.p5js.org/aidan.gorneau/sketches/lDYCLYZBS
