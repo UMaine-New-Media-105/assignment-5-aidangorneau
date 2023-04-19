@@ -8,3 +8,6 @@ link for 2 - https://editor.p5js.org/aidan.gorneau/sketches/utt9b-24j
 
 question 3 - for the third question, we were tasked with making a breeder and a catcher and positioning them on the edge of the screen. for my project, I am going with a forest theme which is why I made the bubbles green and brown. I created a cute mouse sprite as my breeder and put it on the left edge of the canvas, and created a cute fox sprite as my catcher and put it on the right edge of the canvas, each with their own functions for drawing and repositioning the sprites as needed. 
 link for 3 - https://editor.p5js.org/aidan.gorneau/sketches/lDYCLYZBS
+
+question 4 - for the forth question, we were tasked with making the breeders and catchers move across the screen randomly with a certain number of each type. I completely revamped the way I implemented the sprites, creating classes for both the foxes and mice, as well as creating loops and empty lists for each in order to spawn them in individually. each class consisted of individual variables as well as moving commands and if statements to check if the sprite hit the edge of the canvas. 
+link for 4 -https://editor.p5js.org/aidan.gorneau/sketches/ROR9qzOxC
